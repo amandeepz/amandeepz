@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Amandeep;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+Engineer;Backend+and+Developer;UFC+and+Football+Lover;Hardworking+and+Ambitious;Sports+Freak" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Amandeep;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+Engineer;AI+Enthusiast;UFC+and+Football+Lover;Hardworking+and+Ambitious;Sports+Freak" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -81,7 +81,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupyter" title="Jupyter"/>
   </kbd>
      
   </p>
@@ -92,17 +92,6 @@
   <summary>GitHub Badges</summary>
   <br>
   <p><a href="https://holopin.io/@amandeepz"><img src="https://holopin.me/amandeepz" alt="An image of @amandeepz&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
-</details>
-
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
 </details>
 
 <details>
